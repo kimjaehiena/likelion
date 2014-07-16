@@ -1,0 +1,115 @@
+.navbar{
+
+	margin-bottom: 0px;
+}
+
+}
+
+.navbar-default{
+	min-height: 50px;
+	vertical-align: center;
+	color:white;
+}
+
+.navbar-brand{
+	font-size:20px;
+	content: "\e03d";
+	min-height: 50px;
+	color: white;
+}
+
+.btn-group{
+
+	float:right;
+}
+
+.nav>li>a{
+display: 0px;
+padding: 0px;
+	
+}
+
+.col-md-3{
+	float: left;
+	width: 10%;
+	height: 300%;
+	padding-right: 0;
+	padding-left: 10px;
+}
+
+.list-group-item:first-child{
+	margin-top: 170px;
+	border-top-left-radius:0px;
+	border-top-right-radius:0px;
+	
+
+}
+.list-group-item{
+	border:0px;
+	text-align: center;
+}
+
+
+.list-group-item:last-child{
+
+	border-bottom-right-radius:0px;
+	border-bottom-left-radius:0px;
+
+}
+
+.list-group-item>img{
+
+	height: 30px;
+	width: 30px;
+	margin: 10px;
+}
+
+
+
+.col-md-9{
+
+	float:left;
+	width:90%;
+	height: 800px;
+	background-color: #FCFCFC;
+	
+
+}
+
+.row.image{
+	margin-left: 50px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+
+}
+
+
+.row.image>.col-xs-6 .col-sm-4 {
+	padding: 20px;
+}
+
+.row.image>.col-xs-6 .col-sm-4>img {
+	
+	margin-left: 20px;
+}
+
+
+.bs-example{
+
+	max-width: 1000px;
+	max-height: 400px;
+	margin-left: 120px;
+	margin-right: 120px;
+	margin-top: 70px;
+	margin-bottom: 70px;
+	
+}
+
+.carousel-inner > .item > img{
+
+	height: 600px;
+}
+
+
+
+

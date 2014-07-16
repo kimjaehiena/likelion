@@ -1,0 +1,30 @@
+application: passionableteam
+version: 1
+runtime: php
+api_version: 1
+
+handlers:
+- url: /
+  script: /homepage.html
+- url: /
+  script: /profile.html
+- url: /
+  script: /seoul.html
+- url: /
+  script: /busan.html
+- url: /
+  script: /jeonju.html
+- url: /
+  script: /yeosu.html
+- url: /
+  script: /japan.html
+- url: /
+  script: /taiwan.html
+- url: /
+  script: /suncheon.html
+- url: /css
+  static_dir: css
+- url: /img
+  static_dir: img
+- url: /js
+  static_dir: js
